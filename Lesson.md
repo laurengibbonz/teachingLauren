@@ -4,8 +4,11 @@
 
 * [Conventions](http://www.joelonsoftware.com/articles/Wrong.html)
 	if you don't want to have to make convention decisions:
+
 		* [pylinter](http://www.pylint.org/)  
+
 		* [jslint](http://www.jslint.com/)
+
 		* [rubocop](https://github.com/bbatsov/rubocop)
 
 
@@ -14,6 +17,7 @@
 
 1. interacting programmatically:
 	* [twitter api](https://twython.readthedocs.org/en/latest/)
+	
 	* [github api](https://developer.github.com/libraries/)
 
 
