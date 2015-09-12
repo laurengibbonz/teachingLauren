@@ -33,3 +33,16 @@
 Aside:
 
 The [hack language](http://hacklang.org/)
+##Installing things with pip:
+
+sudo pip install [package name]
+
+Example:
+
+sudo pip install requests
+
+##Installing things globally with node:
+
+http://gruntjs.com/getting-started
+
+make sure you install this somewhere in `/`
