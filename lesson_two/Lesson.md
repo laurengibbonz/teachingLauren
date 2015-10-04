@@ -1,5 +1,7 @@
 #Lesson two
 
+Hi Lauren!  Here's what we will work on in this lesson :)
+
 Break down:
 * Review
 	* Variables, lists, dictionaries in Python
